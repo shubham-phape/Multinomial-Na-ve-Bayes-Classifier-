@@ -1,1 +1,1 @@
-# Multinomial-Na-ve-Bayes-Classifier-
+# Multinomial Naive-Bayes-Classifier
